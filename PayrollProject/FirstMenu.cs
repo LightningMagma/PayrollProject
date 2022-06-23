@@ -36,7 +36,6 @@ namespace PayrollProject
                             Console.WriteLine("1. Yes");
                             Console.WriteLine("2. No");
                             case_1=int.Parse(Console.ReadLine());
-
                         } while (case_1!=2);
                         break;
                     case 2:
